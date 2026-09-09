@@ -1,0 +1,7 @@
+# Real-Time Voice AI Agent - Core Dependencies (Stage 1)
+# Pinned for Python 3.10 / 3.11 / 3.12 compatibility on Windows/Linux/macOS
+
+pipecat-ai[deepgram,groq,silero,local]>=0.0.108
+python-dotenv>=1.0.1
+pyaudio>=0.2.14
+colorama>=0.4.6
