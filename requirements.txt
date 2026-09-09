@@ -1,4 +1,3 @@
-# Real-Time Voice AI Agent - Core Dependencies (Stage 1)
 # Pinned for Python 3.10 / 3.11 / 3.12 compatibility on Windows/Linux/macOS
 
 pipecat-ai[deepgram,groq,silero,local]>=0.0.108
